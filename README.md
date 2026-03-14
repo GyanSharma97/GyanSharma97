@@ -11,7 +11,16 @@ Let’s connect on [LinkedIn](https://www.linkedin.com/in/gyansharma695/)!<br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gyansharma695/) 
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gyansharma2017@outlook.com) 
 
-# 💻 Technique:
+## 🏢 Platforms & CRM
+
+[![NetSuite](https://img.shields.io/badge/NetSuite-2F6DB5?style=for-the-badge&logo=oracle&logoColor=white)](https://www.netsuite.com)
+[![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)](https://www.salesforce.com)
+[![Pega](https://img.shields.io/badge/Pega-00A4A6?style=for-the-badge&logo=pega&logoColor=white)](https://www.pega.com)
+[![Camunda](https://img.shields.io/badge/Camunda-FC5D0D?style=for-the-badge&logo=camunda&logoColor=white)](https://camunda.com)
+[![nCino](https://img.shields.io/badge/nCino-00457C?style=for-the-badge&logo=salesforce&logoColor=white)](https://www.ncino.com)
+[![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)](https://www.oracle.com)
+
+## 💻 Technique:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) 
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
