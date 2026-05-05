@@ -6,6 +6,15 @@ With background in Business, AML & Banking, Operations and Analytics, I am activ
 Let’s connect on [LinkedIn](https://www.linkedin.com/in/gyansharma695/)!<br>
 
 ---
+
+## 🌐 Quick Guide: How is Data Analyzed Across Industries?
+If you're looking for a quick guide on how data is analyzed across industries — methods, tools, datasets, and career paths — check out my website!
+
+👉 **[DataLens — Industry Data Analysis Guide](https://gyansharma97.github.io/datalens/#)**
+
+It covers **Finance, Healthcare, Energy, Retail, Manufacturing, Marketing, Logistics & HR** — all in one place.
+
+---
   
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gyansharma695)
